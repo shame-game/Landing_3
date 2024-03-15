@@ -1,0 +1,22 @@
+<!-- This is very large comment just to increase the response bytes to put a work around for IE 404 page loading issue-->
+<html>
+
+<head>
+    <meta HTTP-EQUIV='Content-Type' content='text/html; charset=utf-8' />
+    <meta HTTP-EQUIV='Expires' content='0' /><noscript><meta http-equiv='refresh' content='0; url=https://www.synopsys.com/errors/404.html' /></noscript>
+    <script>
+        function redirectPage() {
+            if (window.location.href.includes('ja-jp')) {
+                    window.location.href = 'https://www.synopsys.com/ja-jp/japan/errors/404.html';
+                } else if (window.location.href.includes('zh-cn')) {
+                        window.location.href = 'https://www.synopsys.com/zh-cn/china/errors/404.html';
+                    } else {
+                        window.location.href = 'https://www.synopsys.com/errors/404.html';
+                    }
+                }
+    </script>
+</head>
+
+<body onload='redirectPage()'></body>
+
+</html>

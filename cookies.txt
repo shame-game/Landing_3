@@ -1,0 +1,36 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.synopsys.com	TRUE	/	FALSE	1999999999	dwsso_key	3a566a359858c4a53529417082a47c0a
+.go.synopsys.com	TRUE	/	FALSE	1999999999	__cf_bm	fFRVxUjDMdZm1zz.E0CT1hWDN0605LPOi5ho_JhutWU-1710470794-1.0.1.1-ycW9QyKq5M0Y_aGvwzJzmscpBzoinVocKKxG4X6sQczyXIEVOXsrj7WphNc_uXLmaPZIDEl8XH05TwvzEX6jSA
+go.synopsys.com	TRUE	/	FALSE	1999999999	SameSite	None
+.online.synopsys.com	TRUE	/	FALSE	1999999999	__cf_bm	f1hFDbe1kTr_ivJvmwBd5.1ACxVmw9eSUqDnDVVaxiY-1710470831-1.0.1.1-3a6gDZohxts.lTWjkuU4WryBC2dxdoLedGqecEnbwX6WNIW4qrQdjaGZd2fy9N6ThLPe_MHzhfiEKeFMyhlrUw
+online.synopsys.com	TRUE	/	FALSE	1999999999	SameSite	None
+.synopsys.com	TRUE	/	FALSE	1999999999	rtl_wpdla_swf_product_421151161311	cy0qv9py6mrk7n8mmbhh88ntq7fx909y
+.synopsys.com	TRUE	/	FALSE	1999999999	verification_fvwp_swf_product_421151161311	m2kwg67kc6dn75qtdc776bqqfx8mbcqb
+.synopsys.com	TRUE	/	FALSE	1999999999	verification_survey_swf_product_421151161311	g6ckfsnjzq4kdj0ybjgcnmfkc4hw0h2z
+.synopsys.com	TRUE	/	FALSE	1999999999	tcad_swf_product_421151161311	gmtzcpkmghwv7rxxstqz79cbnm4mrmch
+.synopsys.com	TRUE	/	FALSE	1999999999	atknews_swf_product_421151161311	9hdzqc63r0dj0bcppm0nqrvw6yjx62rc
+.synopsys.com	TRUE	/	FALSE	1999999999	dwtb_swf_product_421151161311	dbvth995qp982sk3c8ftjyfj0dq9mbr9
+.synopsys.com	TRUE	/	FALSE	1999999999	pycellstudio_swf_product_421151161311	znmwqr6bcx8zy8mg75vrcyskw9gsfbk4
+.synopsys.com	TRUE	/	FALSE	1999999999	jpdfdla_swf_product_421151161311	pwsr94mmcqjjkh7kbp7dybc0cyzc7p6p
+.synopsys.com	TRUE	/	FALSE	1999999999	designware_ddr5int_swf_product_421151161311	n7b82jjsd0w2064bjymkm9wb72df3xyf
+.synopsys.com	TRUE	/	FALSE	1999999999	cnpdfdla_swf_product_421151161311	0t6xm3mk487dmk2ccmcx53jjrrx0ncy0
+.synopsys.com	TRUE	/	FALSE	1999999999	cndwtb_swf_product_421151161311	j0nb8kt2fqb0dyjhcvyg3j6z6yctddpq
+.synopsys.com	TRUE	/	FALSE	1999999999	dwarcot_swf_product_421151161311	j2ycnmbf4zbvwn78m6wypk7rs5cbwrx8
+.synopsys.com	TRUE	/	FALSE	1999999999	imp_videos_swf_product_421151161311	p8k0q4qcsftb3hrr50f7sgd3jcvhz3bn
+.synopsys.com	TRUE	/	FALSE	1999999999	armtech_videos_swf_product_421151161311	gm2bzcqbknn2vmvcbzkb50kgh4x59cv9
+.synopsys.com	TRUE	/	FALSE	1999999999	imp_pdfdla_swf_product_421151161311	pwcjkyqv6xy8v4h5zj2r4qyf4zbyhp5s
+.synopsys.com	TRUE	/	FALSE	1999999999	optics_techpaper_swf_product_421151161311	ykcc3cm4ywmt9brqcfdjrvm9c8cxmhqb
+.synopsys.com	TRUE	/	FALSE	1999999999	aciff_swaf1_swf_product_421151161311	m6m0849b98v3nqcbbsr24chk6w4y4vmf
+.synopsys.com	TRUE	/	FALSE	1999999999	aciff_swaf2_swf_product_421151161311	zbq2dvywrm538jhwj63dcyxbbw672kr7
+.synopsys.com	TRUE	/	FALSE	1999999999	verification_dsdla_swf_product_421151161311	35x7mhnfk45ygtj47pkdcvb89cdch6dy
+.app-sj22.marketo.com	TRUE	/	FALSE	1999999999	__cf_bm	OqUhuS7xWhuJ2W.JpiE7bqXlygV2Q8D2fNM5awrDu2I-1710477102-1.0.1.1-TXQR95ZQbt_8rZtar6_zYko4CqFc4tjQ4lgwL6eithtpb9OdqmTCI1JcHhiTKzoJkE.04tg2K45JAbsaSiYWJA
+app-sj22.marketo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.synopsys.com	TRUE	/	FALSE	1999999999	verification_video_swf_product_421151161311	mn29wvwbchhj92tzqhgkb5b64k3qp65h
+.synopsys.com	TRUE	/	FALSE	1999999999	proto_pdfdla_swf_product_421151161311	80jz67ppmbf7n2kgqz8bxvk8yt9403pc
+www.synopsys.com	TRUE	/	FALSE	1999999999	AWSALB	4PLmtBgErotGU6Bf8uKCZtp/Fb6Dd9WZhtWX+kJA+9ChtsBZHR3GZO0G0jaQVUw8eEbXJo9AZri4gRy41Qoz1Q1wCqqpaRxjFmay0nVCWWsNzmAP5YlSTuKXzcrT
+www.synopsys.com	TRUE	/	FALSE	1999999999	AWSALBCORS	4PLmtBgErotGU6Bf8uKCZtp/Fb6Dd9WZhtWX+kJA+9ChtsBZHR3GZO0G0jaQVUw8eEbXJo9AZri4gRy41Qoz1Q1wCqqpaRxjFmay0nVCWWsNzmAP5YlSTuKXzcrT
+www.synopsys.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.synopsys.com	TRUE	/	FALSE	1999999999	wlp	!Ygsr/CQd+kIRYMwJcIrK/x06seODt9ruEGpo6bNJrMuajxRrIiuPZtBCYq19YiShtnELni5U4/24cnM=
+.www.synopsys.com	TRUE	/	FALSE	1999999999	TS01901308	01734f5e7f40cb58e02856ce16667892c1567bed8296b110572fbe346afade5ed34310715e48a44cab9a974adbcc82484497e2ef43
+

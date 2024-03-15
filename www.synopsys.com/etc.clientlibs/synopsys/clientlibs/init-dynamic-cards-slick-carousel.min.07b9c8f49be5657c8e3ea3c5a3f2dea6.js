@@ -1,0 +1,1 @@
+(function(){$(".cmp-dynamiccards .component-content-carousel").length&&window.CQ.Synopsys&&window.CQ.Synopsys.DynamicCards&&(console.log("Re-initializing Slick carousel on Dynamic Cards"),window.CQ.Synopsys.DynamicCards.initDynamicCardsSlickCarousel())})();
